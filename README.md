@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0560-subarray-sum-equals-k](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
