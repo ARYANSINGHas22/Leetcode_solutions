@@ -14,6 +14,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
