@@ -88,6 +88,7 @@
 | [0584-find-customer-referee](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1907-count-salary-categories) |
