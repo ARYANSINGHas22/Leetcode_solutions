@@ -81,4 +81,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ARYANSINGHas22/Leetcode_solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
